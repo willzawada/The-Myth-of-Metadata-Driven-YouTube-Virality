@@ -1,0 +1,2 @@
+# Predicting-YouTube-Viewer-Metrics-with-Machine-Learning
+This project observed how video category and metadata can predict YouTube views. I used a dataset from Kaggle, cleaned it, and conducted EDA. Linear Regression was a baseline model, then explored Random Forest and Gradient Boosting – which performed the best and suggested that variation in engagement is driven by factors not captured in this data.
